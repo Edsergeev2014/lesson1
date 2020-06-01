@@ -64,7 +64,9 @@ public class HomeWork3 {
     }
 }
 
-
+/*
+Ну, ты прям красавец
+*/
 
 
 
